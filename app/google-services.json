@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546208225001",
+    "project_id": "notificacionesdialitech",
+    "storage_bucket": "notificacionesdialitech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546208225001:android:f01f7a394f58121897c278",
+        "android_client_info": {
+          "package_name": "com.healthsync.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdcnATc4KAQt3aJwUF4PWdG3zivzO4V1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
