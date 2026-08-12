@@ -75,7 +75,7 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.7.3")
 
     // Accompanist (permisos)
-    implementation("com.google.accompanist:accompanist-permissions:0.36.0")
+    implementation("com.google.accompanist:accompanist-permissions:0.37.3")
 
     // CameraX
     val cameraxVersion = "1.4.1"
